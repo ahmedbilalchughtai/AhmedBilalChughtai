@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedbilalchughtai&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbilalchughtai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ahmedbilal9884" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmedbilal9884?logo=twitter&style=for-the-badge" alt="@ahmedbilal9884" /></a> </p>
-
 - 🌱 I’m currently learning **Mobile Application Development, Machine Learning, and Digital Marketing**
 
 - 📫 How to reach me **ahmedbilal9884@gmail.com**
