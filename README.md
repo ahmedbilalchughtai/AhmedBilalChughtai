@@ -4,7 +4,7 @@ Mobile Application Developer | Pakistan
 
 ## About
 
-I build mobile applications using Flutter and React Native. Focused on creating clean, functional cross-platform apps.
+I build mobile applications using Flutter. Focused on creating clean, functional cross-platform apps.
 
 ## Tech Stack
 
